@@ -29,7 +29,7 @@ By using the PV cell’s voltage as a light-level signal, I programmed the micro
 This shift to a microcontroller-based architecture successfully resolved the logic issue and provided much greater control over the system's power efficiency.
 
 ## Design
-![alt text](https://github.com/Atul-Pethe/Power-Distribution-Board/blob/main/Power%20Distribution%20Board%20Schematic.png?raw=true)
+![alt text](https://github.com/Atul-Pethe/Renewable-Flashing-Stop-Sign/blob/1a337afb04b7e30630de5a9b3d0e20749b3ed445/Renewable-Energy-Stop-Sign-Circuit.png)
 
 ## Overall Result
 The result of this board was that my group was invited to present this project at the COSMOS Cluster 6 - Introduction to Smart and Sustainable Power

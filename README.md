@@ -1,4 +1,4 @@
-# Renewable-Flashing-Stop-Sign
+# Renewable Flashing Stop Sign
 ## TLDR
 Worked in a team of 3 people to design, implement, program a board, and present to my Advanced Renewable Energy class and to my Advanced Renewabele Energy professor a stop sign that utilizes solar power to flash LEDs around its edges. Also presented to Cluster 6 (Introduction to Smart and Sustainable Power) at UCSC Cosmos.
 
